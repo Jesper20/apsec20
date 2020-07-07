@@ -1,4 +1,4 @@
-# APSEC20
+# Fuzzing SmartThings Apps
 Software Artefacts used in APSEC20 work
 
 instrumented_apps: 
