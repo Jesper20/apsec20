@@ -10,7 +10,7 @@ scripts:
     apsecenv: Python dependencies
     chromedriver: web driver used for Selenium testing
     randFuzz.py -- random fuzzing tool
-    smartFuzz.py -- smart fuzzing tool (not a full version)
+    smartFuzz.py -- smart fuzzing tool
    
    Run command:
     
