@@ -7,8 +7,8 @@ instrumented_apps:
 
 scripts:
     
-    apsecenv: Python dependencies
-    chromedriver: web driver used for Selenium testing
+    apsecenv -- Python dependencies
+    chromedriver -- web driver used for Selenium testing
     randFuzz.py -- random fuzzing tool
     smartFuzz.py -- smart fuzzing tool
    
