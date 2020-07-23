@@ -1,0 +1,116 @@
+capability.accelerationSensor,acceleration,
+capability.actuator,,
+capability.activityLightingMode,lightingMode,setLightingMode
+capability.airConditionerMode,airConditionerMode,setAirConditionerMode
+capability.airQualitySensor,airQuality,
+capability.alarm,alarm,both off siren strobe
+capability.audioMute,mute,setMute mute unmute
+capability.audioNotification,,playTrack playTrackAndResume playTrackAndRestore
+capability.audioTrackData,audioTrackData,
+capability.audioVolume,volume,setVolume volumeUp volumeDown
+capability.battery,battery,
+capability.beacon,presence,
+capability.bridge,,
+capability.bodyMassIndexMeasurement,bmiMeasurement,
+capability.bodyWeightMeasurement,bodyWeightMeasurement,
+capability.bulb,switch,off on
+capability.button,button numberOfButtons supportedButtonValues,
+capability.carbonDioxideMeasurement,carbonDioxide,
+capability.carbonMonoxideDetector,carbonMonoxide,
+capability.carbonMonoxideMeasurement,carbonMonoxideLevel,
+capability.colorControl,color hue saturation,setColor setHue setSaturation
+capability.colorTemperature,colorTemperature,setColorTemperature
+capability.color,colorValue,setColorValue
+capability.colorMode,colorMode,
+capability.configuration,,configure
+capability.consumable,consumableStatus,setConsumableStatus
+capability.contactSensor,contact,
+capability.demandResponseLoadControl,drlcStatus,requestDrlcAction overrideDrlcAction
+capability.diswhasherMode,dishwasherMode,setDishwasherMode
+capability.diswhasherOperatingState,machineState supportedMachineStates dishwasherJobState completionTime,setMachineState
+capability.doorControl,door,close open
+capability.dryerMode,dryerMode,setDryerMode
+capability.dryerOperatingState,machineState supportedMachineStates dryerJobState completionTime,setMachineState
+capability.dustSensor,fineDustLevel dustLevel,
+capability.energyMeter,energy,
+capability.estimatedTimeOfArrival,eta,
+capability.equivalentCarbonDioxideMeasurement,equivalentCarbonDioxideMeasurement,
+capability.execute,data,execute
+capability.fanSpeed,fanSpeed,setFanSpeed
+capability.filterStatus,filterStatus,
+capability.formaldehydeMeasurement,formaldehydeLevel,
+capability.garageDoorControl,door,close open
+capability.geolocation,latitude longitude method accuracy altitudeAccuracy heading speed lastUpdateTime,
+capability.holdableButton,button numberOfButtons,
+capability.illuminanceMeasurement,illuminance,
+capability.imageCapture,image,take
+capability.indicator,indicatorStatus,indicatorNever indicatorWhenOff indicatorWhenOn
+capability.infraredLevel,infraredLevel,setInfraredLevel
+capability.light,switch,off on
+capability.lockOnly,lock,lock
+capability.lock,lock,lock unlock
+capability.mediaController,activities currentActivity,startActivity
+capability.mediaInputSource,inputSource supportedInputSources,setInputSource
+capability.mediaPlaybackRepeat,playbackRepeatMode,setPlaybackRepeatMode
+capability.mediaPlaybackShuffle,playbackShuffle,setPlaybackShuffle
+capability.mediaPlayback,level playbackStatus,setPlaybackStatus play pause stop
+capability.mediaPresets,presets,selectPreset playPreset
+capability.mediaTrackControl,,nextTrack previousTrack
+capability.momentary,,push
+capability.motionSensor,motion,
+capability.musicPlayer,level mute status trackData trackDescription,mute nextTrack pause play playTrack previousTrack restoreTrack resumeTrack setLevel setTrack stop unmute
+capability.notification,,deviceNotification
+capability.odorSensor,odorLevel,
+capability.outlet,switch,off on
+capability.ovenMode,ovenMode,setOvenMode
+capability.ovenOperatingState,machineState supportedMachineStates ovenJobState completionTime operationTime progress,setMachineState stop
+capability.ovenSetpoint,ovenSetpoint,setOvenSetpoint
+capability.pHMeasurement,pH,
+capability.polling,,poll
+capability.powerConsumptionReport,powerConsumption,
+capability.powerMeter,power,
+capability.powerSource,powerSource,
+capability.presenceSensor,presence,
+capability.rapidCooling,rapidCooling,setRapidCooling
+capability.refresh,,refresh
+capability.refrigerationSetpoint,refrigerationSetpoint,setRefrigerationSetpoint
+capability.relativeHumidityMeasurement,humidity,
+capability.relaySwitch,switch,off on
+capability.robotCleanerCleaningMode,robotCleanerCleaningMode,setRobotCleanerCleaningMode
+capability.robotCleanerMovement,robotCleanerMovement,setRobotCleanerMovement
+capability.robotCleanerTurboMode,robotCleanerTurboMode,setRobotCleanerTurboMode
+capability.sensor,,
+capability.shockSensor,shock,
+capability.signalStrength,lqi rssi,
+capability.sleepSensor,sleeping,
+capability.smokeDetector,smoke,
+capability.soundPressureLevel,soundPressureLevel,
+capability.soundSensor,sound,
+capability.speechRecognition,phraseSpoken,
+capability.speechSynthesis,,speak
+capability.stepSensor,goal steps,
+capability.switchLevel,level,setLevel
+capability.switchLevel,switch,off on
+capability.tamperAlert,tamper,
+capability.temperatureMeasurement,temperature,
+capability.thermostatCoolingSetpoint,coolingSetpoint,setCoolingSetpoint
+capability.thermostatFanMode,thermostatFanMode supportedThermostatFanModes,fanAuto fanCirculate fanOn setThermostatFanMode
+capability.thermostatHeatingSetpoint,heatingSetpoint,setHeatingSetpoint
+capability.thermostatMode,thermostatMode supportedThermstatModes,auto cool emergencyHeat heat off setThermostatMode
+capability.thermostatOperatingState,thermostatOperatingState,
+capability.thermostatSetpoint,thermostatSetpoint,
+capability.thermostat,coolingSetpoint coolingSetpointRange heatingSetpoint heatingSetpointRange schedule temperature thermostatFanMode supportedThermostatFanModes thermostatMode supportedThermostatModes thermostatOperatingState thermostatSetpoint thermostatSetpointRange,auto cool emergencyHeat fanAuto fanCirculate fanOn heat off setCoolingSetpoint setHeatingSetpoint setSchedule setThermostatFanMode setThermostatMode
+capability.threeAxis,threeAxis,
+capability.timedSession,sessionStatus completionTime,cancel pause setCompletionTime start stop
+capability.tone,,beep
+capability.touchSensor,touch,
+capability.tvChannel,tvChannel,setTvChannel channelUp channelDown
+capability.ultravioletIndex,ultravioletIndex,
+capability.valve,valve,close open
+capability.videoClips,videoClip,captureClip
+capability.videoStream,stream,startStream stopStream
+capability.voltageMeasurement,voltage,
+capability.washerMode,washerMode,setWasherMode
+capability.washerOperatingState,machineState supportedMachineStates washerJobState completionTime,setMachineState
+capability.waterSensor,water,
+capability.windowShade,windowShade,close open presetPosition
