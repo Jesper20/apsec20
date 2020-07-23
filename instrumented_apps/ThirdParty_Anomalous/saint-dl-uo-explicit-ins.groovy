@@ -1,7 +1,7 @@
 /**
  *  saint-dl-uo-implicit_1_ins
  *
- *  Copyright 2020 jesper
+ *  Copyright 2020 iotbench
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
 		name: "saint-dl-uo-implicit_1_ins",
-		namespace: "jesper",
-		author: "jesper",
+		namespace: "iotbench",
+		author: "iotbench",
 		description: "Monitors a set of presence detectors and triggers a mode change when everyone has left. Malicious URL is hard-coded in the source code and information obtained from devices using implicit permissions (device states) are leaked via sinks using the hard-coded URL. Line 109 to line 144 reflect the hard-coded malicious URL. Values obtained from device are leaked via hard-coded URL from line 206 to 220",
 		category: "Safety & Security",
 		iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

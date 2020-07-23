@@ -1,7 +1,7 @@
 /**
  *  keep-me-cozy
  *
- *  Copyright 2020 eugene
+ *  Copyright 2020 SmartThings
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
     name: "f-keep-me-cozy",
-    namespace: "eugene",
-    author: "eugene",
+    namespace: "SmartThings",
+    author: "SmartThings",
     description: "Changes your thermostat settings automatically in response to a mode change.  Often used with Bon Voyage, Rise and Shine, and other Mode Magic SmartApps to automatically keep you comfortable while you&#39;re present and save you energy and money while you are away.",
     category: "Green Living",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

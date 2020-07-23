@@ -1,7 +1,7 @@
 /**
  *  o-drytheWetspot
  *
- *  Copyright 2020 jesper
+ *  Copyright 2020 SmartThings
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
         name: "o-drythewetspot_ins",
-        namespace: "jesper",
-        author: "jesper",
+        namespace: "SmartThings",
+        author: "SmartThings",
         description: "Turns switch on and off based on moisture sensor input.",
         category: "Safety & Security",
         iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

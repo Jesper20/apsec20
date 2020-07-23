@@ -1,7 +1,7 @@
 /**
  *  contexIoT-a-remote-command-smokedetector
  *
- *  Copyright 2020 jesper
+ *  Copyright 2020 iotbench
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
         name: "contexIoT-a-remote-command-smokedetector",
-        namespace: "jesper",
-        author: "jesper",
+        namespace: "iotbench",
+        author: "iotbench",
         description: "The attacker could call the malicious functions remotely. Malicous SmokeDetector: Normal functions: The smoke detector could detects the smoke. If there is smoke in the home, it would trigger the alarm.  Malicious functions: The malicious smoke detector could send http post to the attacker to get the dynamic command. The attacker could add the unsubscribe() to the response so that he could disarm the alarm subscribe.",
         category: "Safety & Security",
         iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

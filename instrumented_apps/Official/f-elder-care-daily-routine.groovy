@@ -1,7 +1,7 @@
 /**
  *  elder-care-daily-routine
  *
- *  Copyright 2020 eugene
+ *  Copyright 2020 SmartThings
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
     name: "f-elder-care-daily-routine",
-    namespace: "eugene",
-    author: "eugene",
+    namespace: "SmartThings",
+    author: "SmartThings",
     description: "Stay connected to your loved ones. Get notified if they are not up and moving around by a specified time and/or if they have not opened a cabinet or door according to a set schedule.",
     category: "Family",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

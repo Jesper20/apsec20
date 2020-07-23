@@ -1,7 +1,7 @@
 /**
  *  Good Night House
  *
- *  Copyright 2020 jesper
+ *  Copyright 2020 iotbench
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
 		name: "o-good-night-house_ins",
-		namespace: "jesper",
-		author: "jesper",
+		namespace: "iotbench",
+		author: "iotbench",
 		description: "A simple overprivileged app. Request for door lock capability for locking the door. But after a few seconds delay, it will unlock the door automatically, which may not be the intention of the app user.\r\nBeing granted with door lock capability also grant the app of door unlock capability (hence over-privilege)",
 		category: "Convenience",
 		iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

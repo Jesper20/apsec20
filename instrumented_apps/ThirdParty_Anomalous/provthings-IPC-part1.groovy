@@ -8,8 +8,8 @@
  */
 definition(
 		name: "provthings-IPC-part1",
-		namespace: "1glenn-9",
-		author: "1glenn-9",
+		namespace: "iotbench",
+		author: "iotbench",
 		description: "IPC.",
 		category: "Safety & Security",
 		iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

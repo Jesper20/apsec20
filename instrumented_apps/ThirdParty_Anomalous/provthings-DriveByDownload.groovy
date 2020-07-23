@@ -8,8 +8,8 @@
  */
 definition(
 		name: "provthings-DriveByDownload",
-		namespace: "1glenn-6",
-		author: "1glenn-6",
+		namespace: "iotbench",
+		author: "iotbench",
 		description: "Drive by download.",
 		category: "Safety & Security",
 		iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

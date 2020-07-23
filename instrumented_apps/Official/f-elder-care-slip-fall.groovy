@@ -1,7 +1,7 @@
 /**
  *  elder-care-slip-fall
  *
- *  Copyright 2020 eugene
+ *  Copyright 2020 SmartThings
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
     name: "f-elder-care-slip-fall",
-    namespace: "eugene",
-    author: "eugene",
+    namespace: "SmartThings",
+    author: "SmartThings",
     description: "Monitors motion sensors in bedroom and bathroom during the night and detects if occupant does not return from the bathroom after a specified period of time.",
     category: "Family",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

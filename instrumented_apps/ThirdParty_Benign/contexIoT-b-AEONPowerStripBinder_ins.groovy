@@ -7,8 +7,8 @@
  */
 definition(
 		name: "contexIoT-b-AEONPowerStripBinder_ins",
-		namespace: "jesper",
-		author: "jesper",
+		namespace: "iotbench",
+		author: "iotbench",
 		description: "AEON Power Strip Binding. This app allows you to bind 4 Virtual On/Off Tiles to the 4 switchable outlets",
 		category: "Convenience",
 		iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

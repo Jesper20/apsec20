@@ -1,7 +1,7 @@
 /**
  *  contexIoT-a-uo-undesired-unlocking_ins
  *
- *  Copyright 2020 jesper
+ *  Copyright 2020 iotbench
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,8 +15,8 @@
  */
 definition(
         name: "contexIoT-a-uo-undesired-unlocking_ins",
-        namespace: "jesper",
-        author: "jesper",
+        namespace: "iotbench",
+        author: "iotbench",
         description: "The app has the convert/abnormal behaviour of controlling switchLevel. This can possibly be used to leak data ",
         category: "Safety & Security",
         iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",

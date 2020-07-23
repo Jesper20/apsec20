@@ -1,7 +1,7 @@
 definition(
 		name: "provthings-AttackDuringPreference",
-		namespace: "1glenn-10",
-		author: "1glenn-10",
+		namespace: "iotbench",
+		author: "iotbench",
 		description: "Attack during prefereces.",
 		category: "Safety & Security",
 		iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
