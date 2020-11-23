@@ -1,0 +1,5 @@
+variable,method,datatype,values
+sensor,preferences,capability.waterSensor,
+pump,preferences,capability.lock,
+location,endpoint,endpoint,Home Away
+sink,,,2
